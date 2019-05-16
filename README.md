@@ -22,8 +22,8 @@ password（提取码）：i3nm
 
 <pre><code>
 $ git clone https://github.com/MarsZhanCZ/social-network-exercise-project
-unzip zhihu.zip
-python zhihu_analysis_LinuxWorkStation_py3.7.py
+$ unzip zhihu.zip
+$ python zhihu_analysis_LinuxWorkStation_py3.7.py
 </code></pre>
 
 ## Future Expectations(未来展望)
