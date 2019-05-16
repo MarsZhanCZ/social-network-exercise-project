@@ -3,7 +3,7 @@
 ### Motivation(动机)
 Zhihu (www.zhihu.com) is the biggest Chinese knowledge ask-answer web site in China (example in English world: Quora). It has more than 220 million registered users (over 240 million among them are monthly active) by November 2018
 
-知乎是中国最大的中文知识问答网站。截止2018年11月，该网站注册用户超过2.2亿(其中每月活跃用户超过2.4亿)
+知乎是中国最大的中文知识问答网站。截止2018年11月，该网站注册用户超过2.2亿(每月活跃用户流量超过2.4亿)
 
 We wonder in such a platform, what kind of form of social network may existsa, and we want to know whether the knowledge areas (topics) have any contact with the interpersonal relationships (which is a special issue of Zhihu compared to social websites like Twitter or Facebook). 
 
