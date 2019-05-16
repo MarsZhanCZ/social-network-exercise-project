@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 23 20:03:22 2015
+Created on Mon May 13 20:03:22 2019
 
-@author: Che
+@author: Zhan and Yan
 """
 
 import sqlite3
