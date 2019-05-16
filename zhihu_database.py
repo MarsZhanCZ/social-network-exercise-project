@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov 21 15:39:46 2015
+Created on Mon May 13 20:03:22 2019
 
-@author: Che
+@author: Zhan and Yan
 """
 
 import glob   
